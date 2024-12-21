@@ -8,6 +8,19 @@ This repository contains a Python script that demonstrates how to create and sen
 
 <i>UDP</i> (User Datagram Protocol) is a connectionless protocol used in network communication. Unlike TCP, UDP does not establish a connection before sending data, making it lightweight and faster but less reliable. This script demonstrates <b><i>UDP packet spoofing</i></b>, where a packet is sent with a falsified source IP address.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/nfoisking/UDP-SPOOFING?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/nfoisking/UDP-SPOOFING?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/nfoisking/UDP-SPOOFING?color=teal&style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-nfoisking-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnfoisking%2UDP-SPOOFING&title=Visitors&edge_flat=false"/></a>
+</p>
+
 The goal of this project is to teach how UDP packets are structured and how spoofing works in a controlled environment for educational purposes.
 
 ## <b>Requirements</b>
@@ -26,7 +39,7 @@ dst_port: Destination port number (e.g., 53 for DNS).
 payload: The data to include in the UDP packet (could be any message).
 
 ## <b>Installation</b>
-git clone https://github.com/nfoisking/UDP-SPOOFING
+git clone https://github.com/nfoisking/UDP-SPOOFING &&
 cd UDP-SPOOOFING
 
 ## <b>Legal Disclaimer</b>
@@ -35,3 +48,10 @@ cd UDP-SPOOOFING
 Using packet spoofing techniques in unauthorized networks is <b>illegal</b> and can lead to serious legal consequences. The author of this code does not condone or endorse illegal activities. Ensure you have explicit permission to test or use this script on any network.
 
 By using this code, you agree to be responsible for any actions taken, and the author disclaims all liability.
+
+<h1>About UDP Spoofing</h1>
+<p><li>Author: nfo</li></p>
+<p><li>Version: 1.0</li></p>
+<p><li>Language: Python</li></p>
+<h1>Contact</h1>
+<p><li>Email: hello@nfoisking.com</li></p>
