@@ -26,8 +26,8 @@ dst_port: Destination port number (e.g., 53 for DNS).
 payload: The data to include in the UDP packet (could be any message).
 
 <b>Installation</b>
-git clone https://github.com/nfoisking/UDP-SPOOFING
-cd UDP-SPOOOFING
+git clone https://github.com/nfoisking/UDP-SPOOFING\n
+cd UDP-SPOOOFING\n
 
 <b>Legal Disclaimer</b>
 <b>IMPORTANT:</b> This script is for <i>educational purposes only</i>.
