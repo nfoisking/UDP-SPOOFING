@@ -19,15 +19,15 @@ You can install the required library by running:
 ```pip install scrappy```
 
 <b>Example Configuration:</b>
-<i>ip_src: Spoofed source IP address.
+ip_src: Spoofed source IP address.
 ip_dst: Target destination IP address.
 src_port: Source port number (random or specified).
 dst_port: Destination port number (e.g., 53 for DNS).
-payload: The data to include in the UDP packet (could be any message).</i>
+payload: The data to include in the UDP packet (could be any message).
 
 <b>Installation</b>
-<i>git clone https://github.com/nfoisking/UDP-SPOOFING
-cd UDP-SPOOOFING</i>
+git clone https://github.com/nfoisking/UDP-SPOOFING
+cd UDP-SPOOOFING
 
 <b>Legal Disclaimer</b>
 <b>IMPORTANT:</b> This script is for <i>educational purposes only</i>.
