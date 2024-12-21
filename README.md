@@ -4,15 +4,6 @@ This repository contains a Python script that demonstrates how to create and sen
 
 > <b>Note:</b> This code is for <i>educational purposes only</i>. Unauthorized use of packet spoofing can be illegal and unethical. Always ensure you have proper authorization to test network security.
 
-## <b>Table of Contents</b>
-- [Overview](#overview)
-- [Requirements](#requirements)
-- [How It Works](#how-it-works)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Legal Disclaimer](#legal-disclaimer)
-- [Important Notes](#important-notes)
-
 ## <b>Overview</b>
 
 <i>UDP</i> (User Datagram Protocol) is a connectionless protocol used in network communication. Unlike TCP, UDP does not establish a connection before sending data, making it lightweight and faster but less reliable. This script demonstrates <b><i>UDP packet spoofing</i></b>, where a packet is sent with a falsified source IP address.
@@ -25,9 +16,7 @@ The goal of this project is to teach how UDP packets are structured and how spoo
 - [Scapy](https://scapy.net/), a powerful Python-based tool for network packet manipulation.
 
 You can install the required library by running:
-
-```bash
-pip install scapy```
+```pip install scrappy```
 
 <b>Example Configuration:</b>
 ip_src: Spoofed source IP address.
